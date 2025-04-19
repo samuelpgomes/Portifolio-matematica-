@@ -1,4 +1,4 @@
-# Meu Portfólio em Matemática e Física Teórica
+# Meu Portfólio em Matemática e Física 
 
 estudante autodidata
 - 🧮 **Álgebra Linear e Geometria Analítica** (Elon Lages Lima)  
