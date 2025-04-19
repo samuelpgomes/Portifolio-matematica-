@@ -11,7 +11,7 @@ meu-portfolio-matematica/
 │
 ├── 📁 3-calculo-avancado/
 │   ├── 📄 spivak-calculus.md          # Problemas do Spivak (limites, derivadas, integrais)
-│   └── 📄 analise-real.md             # Rudin/Elon (sequências, continuidade, teoremas)
+│   └── 📄 analise-real(elon).md             # Rudin/Elon (sequências, continuidade, teoremas)
 │
 ├── 📁 4-fisica-matematica/
 │   ├── 📄 mecanica-classica.md        # Problemas do Goldstein
